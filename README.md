@@ -1,4 +1,4 @@
-# Blockade 🛡️
+# Blockade 
 
 A transparent security proxy that sits between any AI coding assistant and the MCP (Model Context Protocol) servers it connects to. It intercepts every tool call, evaluates it against your security policy, and logs every decision — giving you visibility and control over what AI agents can actually do on your machine.
 
